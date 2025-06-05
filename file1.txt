@@ -1,3 +1,7 @@
 Actual file
 Hello from Jiya
+<<<<<<< HEAD
 hello world
+=======
+Hello From Kabir
+>>>>>>> 649f93e082b3234d86a49349109efe2c18c23a97
